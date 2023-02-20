@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "totranhieu@gmail.com",
+      "password": "$2a$10$pM2/n/IIk3t4AXndfRLRRewQSM9GZhmB7rxjbyw8o8MqK9bcJAaUm"
+    },
+    { 
+      "id": 2,
+      "email": "totranhieu1@gmail.com",
+      "password": "$2a$10$jZhYuHzbIZLN/l8q.KHnierfFlcZuj9WRpWAH5Vzw5TUvChGeKRTW"
+     
+    }
+  ],
+  "students": [
+    {
+      "id": 1,
+      "studentName": "Tô Trần Hiếu",
+      "email": "tthieu@gmail.com",
+      "password": "123456",
+      "age": 19
+    }
+  ]
+}
